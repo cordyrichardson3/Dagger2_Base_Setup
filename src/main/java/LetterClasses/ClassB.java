@@ -1,3 +1,5 @@
+package LetterClasses;
+
 import javax.inject.Inject;
 
 public class ClassB {
